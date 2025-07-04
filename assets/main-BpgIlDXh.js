@@ -1,1 +1,0 @@
-import"./script-BrrfMqZU.js";const o=function(){const e=document.querySelector(".hero__news");e.addEventListener("click",n=>{const t=n.target.closest(".hero__news-item");if(!t)return;const s=t.dataset.news_index;e.dataset.news_active=s})};o();
